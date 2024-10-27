@@ -1,0 +1,26 @@
+{8 items
+key:
+4
+updateAuthority:
+"FAw9UyP2ca9JY5pdybi3wyjf31Zc4HxE9j2xyR2zzjNU"
+mint:
+"E2o6gnnPa5FHW5kwLj7eNwPe77RtpBQn3nbX25fJ4Fyi"
+data:{4 items
+name:
+"President Donald J. Trump"
+symbol:
+"PDJT"
+uri:
+"https://ipfs.io/ipfs/QmVsUahPwKUg2dMvtG47wheQGAYYH6Ys6vie5tDTTDcHb3"
+sellerFeeBasisPoints:
+0
+}
+primarySaleHappened:
+0
+isMutable:
+0
+editionNonce:
+255
+tokenStandard:
+2
+}
